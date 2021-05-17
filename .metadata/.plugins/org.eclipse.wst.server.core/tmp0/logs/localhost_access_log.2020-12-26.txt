@@ -1,0 +1,14 @@
+127.0.0.1 - - [26/Dec/2020:13:26:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:26:33 +0530] "GET /JspDataBaseConnection/WEB-INF/DataBaseConnection.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:26:34 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [26/Dec/2020:13:28:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:28:13 +0530] "GET /JspDataBaseConnection/WEB-INF/DataBaseConnection.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [26/Dec/2020:13:30:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:30:55 +0530] "GET /JspDataBaseConnection/WEB-INF/DataBaseConnection.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:31:07 +0530] "GET /JspDataBaseConnection/WEB-INF/DataBaseConnection.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [26/Dec/2020:13:32:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:33:02 +0530] "GET /JspDataBaseConnection/DataBaseConnection.jsp HTTP/1.1" 200 723
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:38:28 +0530] "GET /JspDataBaseConnection/DataBaseConnection.jsp HTTP/1.1" 200 1507
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:38:28 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:39:08 +0530] "GET /JspDataBaseConnection/DataBaseConnection.jsp HTTP/1.1" 200 1531
+0:0:0:0:0:0:0:1 - - [26/Dec/2020:13:39:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762

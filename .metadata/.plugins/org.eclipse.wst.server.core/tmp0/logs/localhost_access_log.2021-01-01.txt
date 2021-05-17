@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Jan/2021:12:06:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:06:54 +0530] "GET /DirectiveTag/Page.jsp HTTP/1.1" 200 190
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:06:54 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:07:29 +0530] "GET /DirectiveTag/Page.jsp HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:07:33 +0530] "GET /DirectiveTag/Page.jsp HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:07:34 +0530] "GET /DirectiveTag/Page.jsp HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:07:34 +0530] "GET /DirectiveTag/Page.jsp HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:11:05 +0530] "GET /DirectiveTag/Include.jsp HTTP/1.1" 200 369
+0:0:0:0:0:0:0:1 - - [01/Jan/2021:12:11:06 +0530] "GET /favicon.ico HTTP/1.1" 404 762

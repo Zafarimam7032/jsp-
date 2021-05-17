@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Jsp-For-Class&amp;Method">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Jsp-For-ClassMethod"/>
+        <property name="java-output-path" value="/Jsp-For-Class&amp;Method/build/classes"/>
+    </wb-module>
+</project-modules>
